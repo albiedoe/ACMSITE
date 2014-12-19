@@ -1,0 +1,64 @@
+﻿
+body{
+    background-image: url("../Pictures/black_0s_and_1s_blur.png");
+    /*padding-top: 70px;
+    background-color:#C0D9D9;*/
+    padding-bottom:100px;
+    font-family: 'Lato', sans-serif;
+}
+#row {
+    /*padding-top:70px;*/
+}
+
+#ACMTitle{
+    text-align:center;
+}
+/*
+    light - blue: #66CCCC
+    darker - blue: #05B8CC
+    */
+#row2{
+    
+    color:red;
+}
+/*
+.navbar-default{
+    background-color: #1A242F;
+}
+}
+        
+*/
+.navbar-fixed-bottom{
+    background-color: #2A2A2A;
+}/*
+.navbar-default{
+    background-color: #D3D3D3;
+}  
+*/
+.well{
+    background-color: #2A2A2A;
+}
+/*
+.navbar-default nav> li > a{
+    
+}
+  
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus{
+    
+    background-color:#1A242F;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus{
+    color:#05B8CC;
+    background-color:transparent;
+}
+*/
+.carousel{
+    
+}
+
+#row1{
+    color:blue;
+}
